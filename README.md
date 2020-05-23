@@ -78,7 +78,7 @@ com um texto "Hello World!"
 */
 ```
 
-![Node%20JS%20API%20c7f9d6342a9742128cead883b0c6ffca/Untitled-2020-05-11-0825_(1).png](Node%20JS%20API%20c7f9d6342a9742128cead883b0c6ffca/Untitled-2020-05-11-0825_(1).png)
+![imagem](https://github.com/tr3visan/node-api/blob/master/img/Untitled-2020-05-11-0825.png)
 
 ---
 
