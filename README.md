@@ -174,7 +174,7 @@ Através do Robot 3T é possível visualizar o Schema do bando de dados
 - Instalando o [Robot 3T](https://robomongo.org/download)
 - Configurando:
 
-![Node%20JS%20API%20c7f9d6342a9742128cead883b0c6ffca/Captura_de_Tela_2020-05-23_as_09.47.44.png](Node%20JS%20API%20c7f9d6342a9742128cead883b0c6ffca/Captura_de_Tela_2020-05-23_as_09.47.44.png)
+![Robot 3T](https://github.com/tr3visan/node-api/blob/master/img/Captura_de_Tela_2020-05-23_as_09.47.44.png)
 
 - Agora é só clicar em `create` e configurar a porta para `27017`
 
@@ -296,7 +296,7 @@ app.get('/', (req, res) => {
     - Em collections foi criado uma tabela `products`
     - Ok!
 
-    ![Node%20JS%20API%20c7f9d6342a9742128cead883b0c6ffca/Captura_de_Tela_2020-05-23_as_10.40.44.png](Node%20JS%20API%20c7f9d6342a9742128cead883b0c6ffca/Captura_de_Tela_2020-05-23_as_10.40.44.png)
+    ![Robot 3T](https://github.com/tr3visan/node-api/blob/master/img/Captura_de_Tela_2020-05-23_as_10.40.44.png)
 
     ---
 
@@ -389,11 +389,11 @@ localhost:3001/api/products
 - Clicamos em: `No Environment` / `Manage Environments` /
 - Configuramos `uma base_url` / confirmamos em `DONE`
 
-![Node%20JS%20API%20c7f9d6342a9742128cead883b0c6ffca/Captura_de_Tela_2020-05-23_as_12.41.29.png](Node%20JS%20API%20c7f9d6342a9742128cead883b0c6ffca/Captura_de_Tela_2020-05-23_as_12.41.29.png)
+![Imagem](https://github.com/tr3visan/node-api/blob/master/img/Captura_de_Tela_2020-05-23_as_12.41.29.png)
 
 - Agora teremos uma url base para nos auxiliar:
 
-![Node%20JS%20API%20c7f9d6342a9742128cead883b0c6ffca/Captura_de_Tela_2020-05-23_as_12.47.08.png](Node%20JS%20API%20c7f9d6342a9742128cead883b0c6ffca/Captura_de_Tela_2020-05-23_as_12.47.08.png)
+![Imagem](https://github.com/tr3visan/node-api/blob/master/img/Captura_de_Tela_2020-05-23_as_12.47.08.png)
 
 - 
 
@@ -441,11 +441,11 @@ app.use(express.json())
 
 - Vamos pro Insomnia, criamos um método `Create`, selecionamos o formato `JSON` para o body e criamos um produto:
 
-![Node%20JS%20API%20c7f9d6342a9742128cead883b0c6ffca/Captura_de_Tela_2020-05-23_as_13.05.11.png](Node%20JS%20API%20c7f9d6342a9742128cead883b0c6ffca/Captura_de_Tela_2020-05-23_as_13.05.11.png)
+![Imagem](https://github.com/tr3visan/node-api/blob/master/img/Captura_de_Tela_2020-05-23_as_13.05.11.png)
 
 - Se clicarmos em `Send`, será feito o registro e nos retornará uma resposta ao lado:
 
-![Node%20JS%20API%20c7f9d6342a9742128cead883b0c6ffca/Captura_de_Tela_2020-05-23_as_13.07.55.png](Node%20JS%20API%20c7f9d6342a9742128cead883b0c6ffca/Captura_de_Tela_2020-05-23_as_13.07.55.png)
+![Imagem](https://github.com/tr3visan/node-api/blob/master/img/Captura_de_Tela_2020-05-23_as_13.07.55.png)
 
 - Podemos abrir o `Robot 3T` e também verificar esse registo
 
@@ -618,7 +618,7 @@ app.use(cors())
 
 - Pastas:
 
-![Node%20JS%20API%20c7f9d6342a9742128cead883b0c6ffca/Captura_de_Tela_2020-05-23_as_15.01.44.png](Node%20JS%20API%20c7f9d6342a9742128cead883b0c6ffca/Captura_de_Tela_2020-05-23_as_15.01.44.png)
+![Imagem](https://github.com/tr3visan/node-api/blob/master/img/Captura_de_Tela_2020-05-23_as_15.01.44.png)
 
 - Arquivo `package.json`
 
